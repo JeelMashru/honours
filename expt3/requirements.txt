@@ -1,0 +1,6 @@
+Flask
+pyautogen
+langchain
+langchain-openai
+chromadb
+python-dotenv
